@@ -12,6 +12,9 @@ dist/
 *.spec
 *.manifest
 
+# 本地打包产物（已上传到 Releases）
+*.exe
+
 # IDE / OS
 .idea/
 .vscode/
